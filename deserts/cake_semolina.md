@@ -40,4 +40,4 @@ Rest  | 10min
 
 > Source: https://cuisine.journaldesfemmes.fr/recette/309614-gateau-de-semoule-aux-raisins-et-caramel
 
-:house: [Back to home](README.md)
+:house: [Back to home](../README.md)

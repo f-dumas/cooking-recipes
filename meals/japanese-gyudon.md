@@ -46,4 +46,4 @@ Cooking | 10-15min
 
 > Source: [Oishi-San - RECETTE JAPONAISE LE GYUDON](https://www.youtube.com/watch?v=w8VLhboFmnM)
 
-:house: [Back to home](README.md)
+:house: [Back to home](../README.md)

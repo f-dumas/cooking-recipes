@@ -1,4 +1,4 @@
-# My recipe (0h0min)
+# Title (0h0min)
 
 :warning: Gluten, Lactose, Egg
 
@@ -26,4 +26,4 @@ Preparation  | 5min
 
 > Source: ...
 
-:house: [Back to home](README.md)
+:house: [Back to home](../README.md)

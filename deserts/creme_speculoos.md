@@ -27,4 +27,4 @@ Rest | 1h
 5. Réservez au frais.
 6. Saupoudrez de spéculoos au moment de servir.
 
-:house: [Back to home](README.md)
+:house: [Back to home](../README.md)

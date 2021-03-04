@@ -45,4 +45,4 @@ Cooking | 10min
 
 > Source: https://www.hirokoliston.com/teriyaki-tofu-don/
 
-:house: [Back to home](README.md)
+:house: [Back to home](../README.md)

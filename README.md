@@ -9,11 +9,11 @@ Feel free to look for what you need there!
 
 - [Guydon](meals/japanese-gyudon.md)
 - [Japanese omelette](meals/japanese-omelette.md)
-- [Teriyaki Ttofudon](meals/japanese-teriyaki-tofudon.md)
+- [Teriyaki Tofudon](meals/japanese-teriyaki-tofudon.md)
 
 ## Misc
 
-- Nothing yet.
+- [Anti Waste Burger](meals/anti-waste-burger.md)
 
 ---
 
@@ -28,3 +28,7 @@ Feel free to look for what you need there!
 
 - [Chocolate creme](deserts/creme_chocolate.md)
 - [Speculoos creme](deserts/creme_speculoos.md)
+
+## Misc
+
+- [Tiramisu Apple-Caramel](deserts/tiramisu-apple-caramel.md)

@@ -27,4 +27,4 @@ Rest | 1h
 3. Quand tout est  homogène, ajouter la fécule de maïs et continuer de remuer jusqu'à épaississement
 4. Verser dans des ramequins et réserver au frigo
 
-:house: [Back to home](README.md)
+:house: [Back to home](../README.md)
