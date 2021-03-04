@@ -38,6 +38,6 @@ Rest  | 10min
 5. Mettre à cuire 30 minutes à 170°C. 
 6. Démouler le gâteau encore tiède.
 
-
-
 > Source: https://cuisine.journaldesfemmes.fr/recette/309614-gateau-de-semoule-aux-raisins-et-caramel
+
+:house: [Back to home](README.md)

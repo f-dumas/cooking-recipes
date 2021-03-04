@@ -1,17 +1,23 @@
-# cooking-recipes
+# Cooking-recipes
 
 My cooking recipes selection.
 Feel free to look for what you need there!
 
-# Asian meals
+# :ramen: Meals
 
+## Japanese specialties
+
+- [Guydon](meals/japanese-gyudon.md)
 - [Japanese omelette](meals/japanese-omelette.md)
+- [Teriyaki Ttofudon](meals/japanese-teriyaki-tofudon.md)
 
-# French meals
+## Misc
 
+- Nothing yet.
 
+---
 
-# Deserts
+# :cake: Deserts
 
 ## Cakes
 
@@ -22,5 +28,3 @@ Feel free to look for what you need there!
 
 - [Chocolate creme](deserts/creme_chocolate.md)
 - [Speculoos creme](deserts/creme_speculoos.md)
-
-
