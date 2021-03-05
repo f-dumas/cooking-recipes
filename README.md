@@ -26,7 +26,6 @@ Feel free to look for what you need there!
 
 ## Cremes
 
-- [Chocolate creme](deserts/creme_chocolate.md)
 - [Speculoos creme](deserts/creme_speculoos.md)
 
 ## Misc
