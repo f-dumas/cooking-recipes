@@ -1,4 +1,4 @@
-# Kare raisu (0h0min)
+# Kare raisu (40min)
 
 :warning: Gluten, Lactose, Egg
 
