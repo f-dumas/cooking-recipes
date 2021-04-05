@@ -7,7 +7,7 @@ Feel free to look for what you need there!
 
 ## Japanese specialties
 
-- [Kare risu](meal/kare-risu.md)
+- [Kare raisu](meals/kare-raisu.md)
 - [Guydon](meals/japanese-gyudon.md)
 - [Tamagoyaki - Japanese omelette](meals/japanese-omelette.md)
 - [Teriyaki Tofudon](meals/japanese-teriyaki-tofudon.md)

@@ -1,4 +1,4 @@
-# Kare risu (0h0min)
+# Kare raisu (0h0min)
 
 :warning: Gluten, Lactose, Egg
 
