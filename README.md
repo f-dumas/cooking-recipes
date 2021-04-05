@@ -11,9 +11,10 @@ Feel free to look for what you need there!
 - [Japanese omelette](meals/japanese-omelette.md)
 - [Teriyaki Tofudon](meals/japanese-teriyaki-tofudon.md)
 
-## Misc
+## Vegetarian meals
 
 - [Anti Waste Burger](meals/anti-waste-burger.md)
+- [Budha bowl - Semolina + Falafel](meals/budha-bowl.md)
 
 ---
 
