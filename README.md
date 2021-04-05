@@ -3,17 +3,17 @@
 My cooking recipes selection.
 Feel free to look for what you need there!
 
-# :ramen: Meals
+# :ramen: Japanese specialties
 
-## Japanese specialties
+- [Guydon](japanese/gyudon.md)
+- [Kare raisu](japanese/kare-raisu.md)
+- [Tamagoyaki - Japanese omelette](japanese/tamagoyaki.md)
+- [Teriyaki Tofudon](japanese/teriyaki-tofudon.md)
 
-- [Guydon](meals/japanese-gyudon.md)
-- [Japanese omelette](meals/japanese-omelette.md)
-- [Teriyaki Tofudon](meals/japanese-teriyaki-tofudon.md)
+# :eggplant: Vegetarian meals
 
-## Misc
-
-- [Anti Waste Burger](meals/anti-waste-burger.md)
+- [Anti Waste Burger](vegetarian/anti-waste-burger.md)
+- [Budha bowl - Semolina + Falafel](vegetarian/budha-bowl.md)
 
 ---
 
