@@ -4,6 +4,8 @@
 
 ## Bouillon Miso (30min)
 
+![Miso Ramen](img/ramen-miso.png "Miso ramen")
+
 ### Ingredients (2 people)
 
 - 2 portions - nouilles ramen
