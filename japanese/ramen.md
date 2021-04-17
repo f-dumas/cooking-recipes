@@ -4,7 +4,7 @@
 
 ## Bouillon Miso (30min)
 
-![Miso Ramen](img/ramen-miso.png "Miso ramen")
+![Miso Ramen](../img/ramen-miso.png "Miso ramen")
 
 ### Ingredients (2 people)
 
