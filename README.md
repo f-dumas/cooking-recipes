@@ -7,6 +7,7 @@ Feel free to look for what you need there!
 
 - [Guydon](japanese/gyudon.md)
 - [Kare raisu](japanese/kare-raisu.md)
+- [Ramen](japanese/ramen.md)
 - [Tamagoyaki - Japanese omelette](japanese/tamagoyaki.md)
 - [Teriyaki Tofudon](japanese/teriyaki-tofudon.md)
 
