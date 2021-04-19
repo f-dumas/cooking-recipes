@@ -22,6 +22,7 @@ Feel free to look for what you need there!
 
 ## Cakes
 
+- [Fondant Banane](deserts/fondant-banane.md)
 - [Lemon cake (gluten and lactose free)](deserts/cake_lemon.md)
 - [Semolina cake](deserts/cake_semolina.md)
 
