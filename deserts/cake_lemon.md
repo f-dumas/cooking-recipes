@@ -9,7 +9,7 @@ Baking  | 40min
 
 ---
 
-## Ingredients (X people)
+## Ingredients (6? people)
 
 - 5 œufs
 - 1/3 de tasse d'huile de coco
