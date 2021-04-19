@@ -11,14 +11,8 @@ Feel free to look for what you need there!
 - [Tamagoyaki - Japanese omelette](japanese/tamagoyaki.md)
 - [Teriyaki Tofudon](japanese/teriyaki-tofudon.md)
 
-<<<<<<< Updated upstream
+
 # :eggplant: Vegetarian meals
-=======
-- [Guydon](meals/japanese-gyudon.md)
-- [Ramen](meals/ramen.md)
-- [Tamagoyaki: Japanese omelette](meals/tamagoyaki.md)
-- [Teriyaki Tofudon](meals/japanese-teriyaki-tofudon.md)
->>>>>>> Stashed changes
 
 - [Anti Waste Burger](vegetarian/anti-waste-burger.md)
 - [Budha bowl - Semolina + Falafel](vegetarian/budha-bowl.md)
