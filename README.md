@@ -22,6 +22,7 @@ _soon_
 
 - :fr: [Anti Waste Burger](vegetarian/anti-waste-burger.md)
 - :fr: [Budha bowl - Semolina + Falafel](vegetarian/budha-bowl.md)
+- :fr: [Hachis Parmentier](vegetarian/hachis-parmentier.md)
 
 ---
 
