@@ -1,39 +1,60 @@
-# Miso soup (15min)
+# Tofu Miso soup (15-35min)
 
 Tasks | Time
 ------------ | ------------- 
 Preparation  | 10 min
-Cooking  | 5 min
+Cooking  | 5-25 min
 
 ---
 
 ## Ingredients (4 people)
 
-- 500 cl d'eau
-- 15 cl de bouillon de dashi en sachet
-- 250 g de tofu ferme frais
-- 100 g de pâte miso
-- 10 g d'algues wakame séchées
-- quelques champignons shiitaké
+- Huile de sésame
+
+> BOuillon
+- 1,3 L d'eau
+- 2 CS de sauce soja  
+- 1 a 2 CS de pâte de miso blanc
+- (optional) 15 cl de bouillon de dashi en sachet
+
+> Legumes
+- 2 carottes (Ou autres légumes de saison)
 - 1 oignon cébette
-  
-> Optional
-- Des légumes de saison type pois, poireaux, carottes
-- Un mélange d'épices shichimi togarashi
+- 5 champignons shiitaké
+- (optional) 10 g d'algues wakame séchées
+
+> Recette au Tofu
+- 250 g de tofu ferme frais
+ 
+> Recette au Saumon
+- 2 pavés de saumon
 
 ---
 
 ## Steps
 
-1. Épluchez et coupez les légumes que l'on souhaite mettre dans la soupe puis faites-les cuire à la vapeur. Réservez.
-2. Coupez le tofu en petits dés.
-3. Dans une casserole, faites chauffer l'eau et le dashi à feu doux (ne pas faire bouillir) pendant 4 minutes .
-4. Ajoutez les dés de tofu.
-5. Dans un bol à part, versez un peu de bouillon, ajoutez la pâte miso puis mélangez pour bien diluer.
-6. Incorporez ce mélange dans la casserole puis remuez pour mélanger les saveurs.
-7. Ajoutez les algues wakame, l'oignon cébette préalablement émincé et les autres légumes que vous avez choisi. Faites chauffer encore 2 minutes.
-8. Goûtez, le mélange ne doit pas être fade. Si besoin ajoutez un peu d'épices shichimi togarashi.
-9. Servez dans des petits bols individuels
+1. Emincer ail, gingembre, cébette et coupez les légumes
+2. Faire revenir ail, gingembre dans de l'huile de sésame. Faire légèrement griller.
+3. Ajouter les carottes. Faire cuire 5 minutes
+4. Ajouter l'eau, sauce soja, verts d'oignon et les champignons
+Optionnel : Ajouter le dashi
+
+> Recette au Tofu
+1. Coupez le tofu en petits dés.
+2. Ajouter au bouillon
+
+> Recette au Saumon
+1. Découper le saumon en dés
+2. Ajouter au bouillon
+3. Faire mijoter pendant 20 minutes
+
+> Montage
+1. Dans un bol à part, versez un peu de bouillon, ajoutez la pâte miso puis mélangez pour bien diluer.
+2. Incorporez ce mélange dans la casserole puis remuez pour mélanger les saveurs.
+Optionnel: Ajoutez les algues wakame
+3. Servir dans des bols
+
+---
 
 :house: [Back to home](../README.md)
 

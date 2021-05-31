@@ -9,7 +9,7 @@ Purée  | 45min
 Cuisson | 12 min
 ---
 
-## Ingredients (X people)
+## Ingredients (4 people)
 
 > Purée
 - 25/50g de beurre
